@@ -1,0 +1,18 @@
+# Global code owners
+* @bohselecta
+
+# Core functionality
+/src/core/ @bohselecta
+/src/commands/ @bohselecta
+/src/types/ @bohselecta
+
+# Documentation
+README.md @bohselecta
+CONTRIBUTING.md @bohselecta
+CHANGELOG.md @bohselecta
+docs/ @bohselecta
+
+# Configuration files
+package.json @bohselecta
+tsconfig.json @bohselecta
+.github/ @bohselecta
